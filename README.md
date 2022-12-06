@@ -1,2 +1,2 @@
 # test-repo
-this is the test repo frlor learning 
+this is the test repo for learning 
